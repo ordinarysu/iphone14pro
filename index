@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Iphone 14 PRO </title>
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon//favicon-16x16.png">
+    <link rel="manifest" href="img/favicon//site.webmanifest">
+    <link rel="mask-icon" href="img/favicon//safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header header__fixed">
+        <div class="container">
+            <nav class="header__menu">
+                <ul class="header__menu-list">
+                    <li class="header__menu-item">
+                        <a href="#" class="header__menu-link">Что нового</a>
+                    </li>
+                    <li class="header__menu-item">
+                        <a href="#" class="header__menu-link">Цвет</a>
+                    </li>
+                    <li class="header__menu-item">
+                        <a href="#" class="header__menu-link">Заказать</a>
+                    </li>
+                </ul>
+                <img src="/img/svg/logo.svg" alt="" class="logo">
+                <div class="phone__number">
+                    <a href="tel:+380504565656" class="phone__link">+38 050-456-56-56</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+        <section class="first-screen">
+            <div class="container ">
+                <div class="first-screen__wrap">
+                    <h1 class="text-h1">Iphone 14 PRO</h1>
+                    <img src="/img/iphone_14_pro_first-screen.png" alt="" class="first-screen__img">
+                    <button class="first-screen__btn">Выбрать</button>
+                </div>
+            </div>
+        </section>
+        <section class="what-new">
+            <div class="container">
+                <h3 class="text-h3">что нового</h3>
+                <div class="what-new__wrap">
+                    <div class="what-new__text">
+                        <p>Все модели оснащены однокристальной системой A16 Bionic, 48-мегапиксельной основной камерой и экранами ProMotion с защитой Ceramic Shield и частотным диапазоном 1 — 120 Гц, а также ускоренной памятью LPDDR5. Дизайн линейки обновлен, на фронтальной панели смартфонов два выреза. </p>
+                        <p>Все iPhone 14 в США будут продаваться без лотка для SIM-карт: производитель заявляет, что улучшенная технология eSIM позволит перенести старые электронные сим-карты на новые смартфоны.</p>
+                        <p>Обновлены фронтальная камера (она снабжена автофокусом и быстрее распознает пользователя в условиях недостаточной освещенности) и сенсор основной камеры.</p>
+                        <p class="accent-text">iPhone 14 Pro вышел в новом дизайне — без фирменной «челки». Также в ассортименте появился новый цвет. В смартфоне, в отличие от «обычных» 14-х айфонов, установлен процессор A16 Bionic, который может за секунду производить 4 трлн операций с фото.</p>
+                    </div>
+                    <img src="/img/Apple-iPhone-14-Pro-Max.jpg" alt="" class="what-new__img">
+                </div>
+            </div>
+        </section>
+        <section class="your-color">
+            <div class="container">
+                <h2 class="text-h2">выбери свой цвет</h2>
+                <div class="your-color__list">
+                    <div class="your-color__item">
+                        <img src="/img/silver.png" alt="" class="your-color__img">
+                        <p class="accent-text">Silver</p>
+                        <p>Серебристый</p>
+                    </div>
+                    <div class="your-color__item">
+                        <img src="/img/purple.png" alt="" class="your-color__img">
+                        <p class="accent-text">Deep purple</p>
+                        <p>Темно фиолетовый</p>
+                    </div>
+                    <div class="your-color__item">
+                        <img src="/img/gold.png" alt="" class="your-color__img">
+                        <p class="accent-text">Gold</p>
+                        <p>Золотой</p>
+                    </div>
+                    <div class="your-color__item">
+                        <img src="/img/black.png" alt="" class="your-color__img">
+                        <p class="accent-text">Space Black</p>
+                        <p>Космический черный</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="callback-form">
+            <div class="container">
+                <div class="callback-form__wrap">
+                    <div class="callback-form__left">
+                        <h3 class="callback-form__title">хочешь iphone 14 pro?</h3>
+                        <form action="" class="callback">
+                            <input type="text" class="callback__input" placeholder="Ваше имя">
+                            <input type="text" class="callback__input" placeholder="Номер телефона">
+                            <p class="callback__text">В ближайшее время наш менеджер свяжется с Вами</p>
+                            <button class="callback__btn">Заказать</button>
+                        </form>
+                    </div>
+                    <div class="callback-form__right">
+                        <img src="/img/callback-form__img.jpg" alt="" class="callback-form__img">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__wrap">
+                <div class="footer__policy">
+                    <p><a href="#" class="footer__policy-link">Политика конфиденциальности</a></p>
+                </div>
+                <img src="/img/svg/logo.svg" alt="" class="logo">
+                <div class="phone__number">
+                    <a href="tel:+380504565656" class="phone__link">+38 050-456-56-56</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
